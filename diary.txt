@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-x month z day, I ate an apple. I hate eating an apple.
-=======
 x month y day, I ate an apple. I hate eating an apple.
->>>>>>> 6432f242746b1f6445d252694f15f43d5b2f9982
