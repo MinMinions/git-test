@@ -1,1 +1,1 @@
-x month x day, I ate an apple. I hate eating an apple.
+x month z day, I ate an apple. I hate eating an apple.
